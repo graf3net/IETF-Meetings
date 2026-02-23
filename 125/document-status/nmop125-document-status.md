@@ -21,7 +21,7 @@
 * **State**: Document received a early YANG doctors review https://mailarchive.ietf.org/arch/msg/nmop/I-dc63eRs3UreTHXGBOZuEAne6I/ which the authors addressed. Awaiting feedback from Martin. Document was updated https://mailarchive.ietf.org/arch/msg/nmop/zWwUQ5k83Gwcnys5i-a1aLBYSBw/ with implementation status section from IETF 124 hackathon. A companien document named draft-netana-nmop-message-broker-bmp-telemetry-message will be published soon.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-message-broker-telemetry-message
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-message-broker-telemetry-message
-* **IETF Session**: 
+* **IETF Session**: Together with draft-ietf-nmop-yang-message-broker-integration
 
 ### draft-netana-nmop-yang-message-broker-message-key
 * **URL**: https://datatracker.ietf.org/doc/draft-netana-nmop-yang-message-broker-message-key/
@@ -35,39 +35,39 @@
 * **State**: Ruediger Geib reviewed document and authors addressed. https://mailarchive.ietf.org/arch/msg/nmop/6oqA1ZbTgQxi2RDVux9eVGN-ymQ/
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-network-anomaly-architecture
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-network-anomaly-architecture
-* **IETF Session**: Yes, 5min, Wanting Du, onsite
+* **IETF Session**: Yes, 5min, Wanting Du, onsite, together with draft-ietf-nmop-network-anomaly-lifecycle and draft-ietf-nmop-network-anomaly-semantics
 
 ### draft-ietf-nmop-network-anomaly-lifecycle
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/
 * **State**: YANG validation error reported https://mailarchive.ietf.org/arch/msg/nmop/NmmYpIbZ5KuJKQ5x8Za8w3eNzHY/. Ruediger Geib reviewed document and authors addressed https://mailarchive.ietf.org/arch/msg/nmop/qtBgpewU9YFq3BL7qOmTsUjsSJw/
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-network-anomaly-lifecycle
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-network-anomaly-lifecycle
-* **IETF Session**: Yes, 5min, Wanting Du, onsite
+* **IETF Session**: Yes, 5min, Wanting Du, onsite, together with draft-ietf-nmop-network-anomaly-semantics and draft-ietf-nmop-network-anomaly-architecture
 
 ### draft-ietf-nmop-network-anomaly-semantics
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/
 * **State**: Document was reviewed by Ruediger Geib and addressed by the authors https://mailarchive.ietf.org/arch/msg/nmop/DDn3-jXTNhBLMctY43v7Ja8FmIw/
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-network-anomaly-semantics
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-network-anomaly-semantics
-* **IETF Session**: Yes, 5min, Wanting Du, onsite
+* **IETF Session**: Yes, 5min, Wanting Du, onsite, together with draft-ietf-nmop-network-anomaly-lifecycle and draft-ietf-nmop-network-anomaly-architecture
 
 ### draft-ietf-nmop-network-incident-yang
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/
 * **State**: Document was updated https://mailarchive.ietf.org/arch/msg/nmop/AU8o2ivDHfxrjmXdrLNW6qlQUAg/. Daniel King reviewed document and authors addressed in https://mailarchive.ietf.org/arch/msg/nmop/JNSusPBhnrDli93HFpwKGdclmKA/ but not submitted yet. YANG validation errors reported https://mailarchive.ietf.org/arch/msg/nmop/pGIx03Io_A88bXE6-IJfe0vkn3A/. 
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-network-incident-yang
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-network-incident-yang
-* **IETF Session**: 
+* **IETF Session**: Yes, 10min, onsite, Qin to present TBC
 
 ### draft-ietf-nmop-simap-concept
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/
 * **State**: Document is in working group last call. Many threads on clarify issues.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-simap-concept
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-simap-concept
-* **IETF Session**: 
+* **IETF Session**: Yes, 5min, onsite, Olga to present TBC
 
 ### draft-ietf-nmop-rfc3535-20years-later
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-nmop-rfc3535-20years-later/
 * **State**: No activties on mailing last and updates on document since IETF 124.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-rfc3535-20years-later
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-rfc3535-20years-later
-* **IETF Session**: 
+* **IETF Session**: Yes, 10min, Med to present TBC
