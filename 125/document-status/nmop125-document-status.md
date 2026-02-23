@@ -1,7 +1,6 @@
 ## NMOP Working Group
 
 
-IETF 124 Meeting session
 
 ### draft-ietf-nmop-terminology
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/
