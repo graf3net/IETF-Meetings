@@ -1,6 +1,5 @@
 ## NMOP Working Group
 
-IETF 124 Meeting minutes
 
 IETF 124 Meeting session
 https://datatracker.ietf.org/meeting/124/session/nmop
