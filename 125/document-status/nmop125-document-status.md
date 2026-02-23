@@ -2,7 +2,6 @@
 
 
 IETF 124 Meeting session
-https://datatracker.ietf.org/meeting/124/session/nmop
 
 ### draft-ietf-nmop-terminology
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-nmop-terminology/
