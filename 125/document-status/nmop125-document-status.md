@@ -56,18 +56,18 @@
 * **State**: Document was updated https://mailarchive.ietf.org/arch/msg/nmop/AU8o2ivDHfxrjmXdrLNW6qlQUAg/. Daniel King reviewed document and authors addressed in https://mailarchive.ietf.org/arch/msg/nmop/JNSusPBhnrDli93HFpwKGdclmKA/ but not submitted yet. YANG validation errors reported https://mailarchive.ietf.org/arch/msg/nmop/pGIx03Io_A88bXE6-IJfe0vkn3A/. 
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-network-incident-yang
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-network-incident-yang
-* **IETF Session**: Yes, 10min, onsite, Qin to present TBC
+* **IETF Session**: Yes, 10min, Qin, onsite
 
 ### draft-ietf-nmop-simap-concept
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/
 * **State**: Document is in working group last call. Many threads on clarify issues.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-simap-concept
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-simap-concept
-* **IETF Session**: Yes, 5min, onsite, Olga to present TBC
+* **IETF Session**: Yes, 5min, Olga, onsite
 
 ### draft-ietf-nmop-rfc3535-20years-later
 * **URL**: https://datatracker.ietf.org/doc/draft-ietf-nmop-rfc3535-20years-later/
 * **State**: No activties on mailing last and updates on document since IETF 124.
 * **Mailinglist**: https://mailarchive.ietf.org/arch/browse/nmop/?q=draft-ietf-nmop-rfc3535-20years-later
 * **Diff**: https://author-tools.ietf.org/diff?doc_1=draft-ietf-nmop-rfc3535-20years-later
-* **IETF Session**: Yes, 10min, Med to present TBC
+* **IETF Session**: Yes, 10min, onsite, Med to present TBC
